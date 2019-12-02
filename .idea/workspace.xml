@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6ce1bc-f3c3-4946-af4d-61db8ba17022" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day02/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/solution_part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/solution_part2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01/solution_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/solution_part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01/solution_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/solution_part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01/solution_part2_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/solution_part2_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +26,28 @@
         <entry file="file://$PROJECT_DIR$/Day02/solution_part1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day02/solution_part2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day02/solution_part2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="570">
+                <caret line="38" selection-start-line="38" selection-end-line="38" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -76,6 +83,7 @@
         <option value="$PROJECT_DIR$/Day02/data.txt" />
         <option value="$PROJECT_DIR$/Day02/solution_part1.py" />
         <option value="$PROJECT_DIR$/Day02/solution_part2.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -149,18 +157,19 @@
       <updated>1575179418229</updated>
       <workItem from="1575179421710" duration="13535000" />
       <workItem from="1575281382568" duration="3004000" />
-      <workItem from="1575290276050" duration="13200000" />
+      <workItem from="1575290276050" duration="13362000" />
+      <workItem from="1575321174323" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29739000" />
+    <option name="totallyTimeSpent" value="30497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -231,39 +240,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="198" selection-start-column="198" selection-end-column="198" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/solution_part1_old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Day02/data.csv" />
+    <entry file="file://$PROJECT_DIR$/Day02/solution_part1_old.py" />
     <entry file="file://$PROJECT_DIR$/Day01/solution_part1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day02/solution_part1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -274,10 +256,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day02/solution_part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day02/solution_part2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="570">
+            <caret line="38" selection-start-line="38" selection-end-line="38" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
