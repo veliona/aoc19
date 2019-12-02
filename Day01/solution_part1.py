@@ -1,6 +1,6 @@
 import math
 
-with open('data.txt') as data:
+with open('data.csv.txt') as data:
     numbers = [int(line.strip()) for line in data]
     results = []
     for number in numbers:

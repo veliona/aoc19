@@ -5,7 +5,7 @@ def fuel_for_value(value):
     return value // 3 - 2
 
 
-with open('data.txt') as data:
+with open('data.csv.txt') as data:
     modules = [int(line.strip()) for line in data]
     total_fuel = 0
     for module_mass in modules:
