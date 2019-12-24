@@ -13,8 +13,8 @@ Day | Completed | Project | Challenge | Language | Tests
 ----|--------------|---------|-------|---------|------
 01 | :white_check_mark: | [Day01](Day01) | [Advent of Code 2019 - Day 01](https://adventofcode.com/2019/day/1)  | Python | :soon:
 02 | :white_check_mark: | [Day02](Day02) | [Advent of Code 2019 - Day 02](https://adventofcode.com/2019/day/2)  | Python | :soon:
-03 | :soon: | [Day03](Day03) | [Advent of Code 2019 - Day 03](https://adventofcode.com/2019/day/3)  | Python | :soon:
-04 | :soon: | [Day04](Day04) | [Advent of Code 2019 - Day 04](https://adventofcode.com/2019/day/4)  | Python | :soon:
+03 | :white_check_mark: | [Day03](Day03) | [Advent of Code 2019 - Day 03](https://adventofcode.com/2019/day/3)  | Python | :soon:
+04 | :white_check_mark: | [Day04](Day04) | [Advent of Code 2019 - Day 04](https://adventofcode.com/2019/day/4)  | Python | :soon:
 05 | :soon: | [Day05](Day05) | [Advent of Code 2019 - Day 05](https://adventofcode.com/2019/day/5)  | Python | :soon:
 06 | :soon: | [Day06](Day06) | [Advent of Code 2019 - Day 06](https://adventofcode.com/2019/day/6)  | Python | :soon:
 07 | :soon: | [Day07](Day07) | [Advent of Code 2019 - Day 07](https://adventofcode.com/2019/day/7)  | Python | :soon:
