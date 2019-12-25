@@ -16,6 +16,7 @@ with open(f"data.txt") as f:
     for noun in range(0, 99):
         for verb in range(0, 99):
             copy_numbers = numbers.copy()
+            print(copy_numbers)
             copy_numbers[1] = noun
             copy_numbers[2] = verb
             if compute_values(copy_numbers) == 19690720:
